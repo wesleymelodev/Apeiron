@@ -1,0 +1,2 @@
+-keep class com.ancrolyn.apeiron.apeiron.ApeironWallpaperService { *; }
+-keep class com.ancrolyn.apeiron.apeiron.MainActivity { *; }
