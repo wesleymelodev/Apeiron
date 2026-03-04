@@ -1,16 +1,11 @@
 # apeiron
 
-Live Wallpaper SlideShow
+Wallpaper SlideShow
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Apeiron is a Wallpaper SlideShow engine that allows you to automatically switch your favorite photos as your Android background.
 
-A few resources to get you started if this is your first Flutter project:
+download:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [apeiron.apk](https://github.com/wesleymelodev/Apeiron/raw/master/assets/apeiron.apk)
