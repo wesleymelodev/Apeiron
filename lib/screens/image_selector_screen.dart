@@ -4,6 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
 import 'package:permission_handler/permission_handler.dart';
 import '../services/wallpaper_channel.dart';
+import '../widgets/custom_app_bar.dart';
 
 class ImageSelectorScreen extends StatefulWidget {
   const ImageSelectorScreen({super.key});
@@ -62,7 +63,7 @@ class _ImageSelectorScreenState extends State<ImageSelectorScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Apeiron")),
+      appBar: CustomAppBar(title: "Apeiron"),
       body: Column(
         children: [
           if (_selectedImages.isNotEmpty)
